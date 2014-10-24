@@ -1,0 +1,9 @@
+.DS_Store
+Icon
+._*
+
+*.sublime-workspace
+# *.sublime-project
+
+node_modules/
+dist/

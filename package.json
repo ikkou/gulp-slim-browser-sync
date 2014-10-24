@@ -1,0 +1,13 @@
+{
+  "name": "gulp-slim-browser-sync",
+  "version": "1.0.0",
+  "description": "for ZEN",
+  "author": "IKKOU Morohoshi",
+  "devDependencies": {
+    "browser-sync": "^1.5.8",
+    "coffee-script": "^1.8.0",
+    "gulp": "^3.8.9",
+    "gulp-load-plugins": "^0.7.0",
+    "gulp-slim": "0.0.10"
+  }
+}
